@@ -1,8 +1,8 @@
-# Front-End Developer @ Mailgun
+# Front-End Developer @ Limousine Transport
 
-To apply just shoot us an email: <a href="mailto:hack@mailgun.net">hack@mailgun.net</a>
+To apply just shoot us an email: <a href="mailto:dominic@limousinetransport.com">dominic@limousinetransport.come</a>
 
-<a href="http://www.mailgun.com">Mailgun</a> is The Email Service for Developers. We make it easy for developers to implement email into their software. We're ex-YC and were acquired by Rackspace in 2012 but remain an independent product within the larger Rackspace organization. This enables us to move fast in a startup-like atmosphere but we have access to juicy hardware, large marketing muscle and world class data centers.
+<a href="http://www.limosinetransport.com">Limousine Transport</a> is The Email Service for Developers. We make it easy for developers to implement email into their software. We're ex-YC and were acquired by Rackspace in 2012 but remain an independent product within the larger Rackspace organization. This enables us to move fast in a startup-like atmosphere but we have access to juicy hardware, large marketing muscle and world class data centers.
 
 We are looking for a front-end developer with an eye for design and strong product vision to help build the future of Mailgun.
 
